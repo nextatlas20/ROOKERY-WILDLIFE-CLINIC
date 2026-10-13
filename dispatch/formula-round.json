@@ -1,0 +1,154 @@
+{
+  "round_date": "2061-06-12",
+  "summary": {
+    "active_cases": 7,
+    "dispatchable_lots": 6,
+    "fulfilled": 3,
+    "partial": 3,
+    "unfilled": 1,
+    "requested_ml": 920,
+    "allocated_ml": 740,
+    "shortage_ml": 180,
+    "remaining_ml": 80
+  },
+  "cases": [
+    {
+      "case_id": "CR-208",
+      "name": "Quill",
+      "species": "owl",
+      "urgency": "critical",
+      "admitted_on": "2061-06-08",
+      "requested_ml": 110,
+      "allocated_ml": 100,
+      "shortage_ml": 10,
+      "outcome": "partial",
+      "draws": [
+        {
+          "lot_id": "FL-504",
+          "expires_on": "2061-06-14",
+          "millilitres": 100
+        }
+      ]
+    },
+    {
+      "case_id": "CR-206",
+      "name": "Nori",
+      "species": "hedgehog",
+      "urgency": "critical",
+      "admitted_on": "2061-06-09",
+      "requested_ml": 140,
+      "allocated_ml": 140,
+      "shortage_ml": 0,
+      "outcome": "fulfilled",
+      "draws": [
+        {
+          "lot_id": "FL-503",
+          "expires_on": "2061-06-12",
+          "millilitres": 140
+        }
+      ]
+    },
+    {
+      "case_id": "CR-201",
+      "name": "Pip",
+      "species": "swift",
+      "urgency": "critical",
+      "admitted_on": "2061-06-10",
+      "requested_ml": 120,
+      "allocated_ml": 120,
+      "shortage_ml": 0,
+      "outcome": "fulfilled",
+      "draws": [
+        {
+          "lot_id": "FL-501",
+          "expires_on": "2061-06-12",
+          "millilitres": 120
+        }
+      ]
+    },
+    {
+      "case_id": "CR-203",
+      "name": "Ember",
+      "species": "swift",
+      "urgency": "critical",
+      "admitted_on": "2061-06-11",
+      "requested_ml": 200,
+      "allocated_ml": 200,
+      "shortage_ml": 0,
+      "outcome": "fulfilled",
+      "draws": [
+        {
+          "lot_id": "FL-501",
+          "expires_on": "2061-06-12",
+          "millilitres": 30
+        },
+        {
+          "lot_id": "FL-502",
+          "expires_on": "2061-06-13",
+          "millilitres": 170
+        }
+      ]
+    },
+    {
+      "case_id": "CR-202",
+      "name": "Moss",
+      "species": "hedgehog",
+      "urgency": "routine",
+      "admitted_on": "2061-06-09",
+      "requested_ml": 180,
+      "allocated_ml": 170,
+      "shortage_ml": 10,
+      "outcome": "partial",
+      "draws": [
+        {
+          "lot_id": "FL-503",
+          "expires_on": "2061-06-12",
+          "millilitres": 110
+        },
+        {
+          "lot_id": "FL-506",
+          "expires_on": "2061-06-15",
+          "millilitres": 60
+        }
+      ]
+    },
+    {
+      "case_id": "CR-204",
+      "name": "Tansy juvenile",
+      "species": "owl",
+      "urgency": "routine",
+      "admitted_on": "2061-06-10",
+      "requested_ml": 90,
+      "allocated_ml": 0,
+      "shortage_ml": 90,
+      "outcome": "unfilled",
+      "draws": []
+    },
+    {
+      "case_id": "CR-207",
+      "name": "Luma",
+      "species": "swift",
+      "urgency": "routine",
+      "admitted_on": "2061-06-11",
+      "requested_ml": 80,
+      "allocated_ml": 10,
+      "shortage_ml": 70,
+      "outcome": "partial",
+      "draws": [
+        {
+          "lot_id": "FL-502",
+          "expires_on": "2061-06-13",
+          "millilitres": 10
+        }
+      ]
+    }
+  ],
+  "remaining_lots": [
+    {
+      "lot_id": "FL-508",
+      "species": "fox",
+      "expires_on": "2061-06-18",
+      "remaining_ml": 80
+    }
+  ]
+}
