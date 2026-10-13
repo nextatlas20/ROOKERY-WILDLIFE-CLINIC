@@ -1,0 +1,16 @@
+[
+  {"lot_id":"FL-501","species":"swift","available_ml":150,"expires_on":"2061-06-12","status":"usable","revision":1},
+  {"lot_id":"FL-502","species":"swift","available_ml":180,"expires_on":"2061-06-13","status":"usable","revision":1},
+  {"lot_id":"FL-503","species":"hedgehog","available_ml":250,"expires_on":"2061-06-12","status":"usable","revision":2},
+  {"lot_id":"FL-504","species":"owl","available_ml":100,"expires_on":"2061-06-14","status":"usable","revision":1},
+  {"lot_id":"FL-505","species":"owl","available_ml":60,"expires_on":"2061-06-11","status":"usable","revision":1},
+  {"lot_id":"FL-506","species":"hedgehog","available_ml":40,"expires_on":"2061-06-15","status":"held","revision":1},
+  {"lot_id":"FL-507","species":"swift","available_ml":100,"expires_on":"2061-06-16","status":"usable","revision":1},
+  {"lot_id":"FL-508","species":"fox","available_ml":80,"expires_on":"2061-06-18","status":"usable","revision":1},
+  {"lot_id":"FL-506","species":"hedgehog","available_ml":60,"expires_on":"2061-06-15","status":"usable","revision":2},
+  {"lot_id":"FL-507","species":"swift","available_ml":100,"expires_on":"2061-06-16","status":"held","revision":3},
+  {"lot_id":"FL-504","species":"owl","available_ml":100,"expires_on":"2061-06-14","status":"usable","revision":1},
+  {"lot_id":"bad","species":"owl","available_ml":900,"expires_on":"2061-06-14","status":"usable","revision":9},
+  {"lot_id":"FL-509","species":"swift","available_ml":true,"expires_on":"2061-06-12","status":"usable","revision":1},
+  {"lot_id":"FL-510","species":"swift","available_ml":90,"expires_on":"not-a-date","status":"usable","revision":1}
+]

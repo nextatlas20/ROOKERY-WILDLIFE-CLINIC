@@ -1,0 +1,15 @@
+case_id,name,species,daily_ml,urgency,admitted_on,active,revision
+CR-201,Pip,swift,120,critical,2061-06-10,true,1
+CR-202,Moss,hedgehog,160,routine,2061-06-09,true,1
+CR-203,Ember,swift,200,critical,2061-06-11,true,2
+CR-204,Tansy,owl,90,routine,2061-06-10,true,1
+CR-205,Bracken,fox,220,critical,2061-06-07,false,1
+CR-206,Nori,hedgehog,140,critical,2061-06-09,true,1
+CR-207,Luma,swift,80,routine,2061-06-11,true,1
+CR-208,Bad|Name,owl,110,critical,2061-06-08,true,9
+CR-202,Moss,hedgehog,180,routine,2061-06-09,true,3
+CR-208,Quill,owl,110,critical,2061-06-08,true,2
+CR-204,Tansy juvenile,owl,90,routine,2061-06-10,true,1
+CR-X09,Ignore,swift,50,routine,2061-06-10,true,1
+CR-209,Incomplete,swift,40,routine
+CR-203,Ember,swift,190,critical,2061-06-11,true,1
